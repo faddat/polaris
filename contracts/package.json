@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@nomicfoundation/hardhat-foundry": "^1.0.1",
-    "hardhat": "^2.16.0"
+    "@nomicfoundation/hardhat-foundry": "^3.0.5",
+    "hardhat": "^3.21.2"
   }
 }
